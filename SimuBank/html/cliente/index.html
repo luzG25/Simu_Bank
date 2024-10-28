@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SimuBank</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="handlers.js"></script>
+</head>
+<body>
+    <div id="cx0">
+        <p id="info"></p>
+        <h1>SimuBank</h1>
+        
+        <p id="bar">
+            <input type="button" value="Levantamento" onclick="pedirPagina('levantamento')">
+            <input type="button" value="Tranferencia" onclick="pedirPagina('transferencia')">
+            <input type="button" value="Emprestimos" onclick="pedirPagina('emprestimos')">
+            <input type="button" value="Definições da Conta" onclick="pedirPagina('contaDef')">
+        </p>
+
+        <div id="saldo">
+            
+        </div>
+
+        <div id="historico">
+
+        </div>
+
+    </div>
+</body>
+<script>
+    info()
+
+    //mostar Saldo
+    function MostarSaldo()
+    {
+        let div = document.getElementById("saldo")
+        let p = document.createElement("p")
+        let saldo = fazerOperacao("calcularSaldo/").saldo
+        let qtd = " "
+         
+        if (saldo.search("E")) { 
+             
+            saldo = Number.parseFloat(saldo)
+             
+            if ( saldo / 1   <= 999999 ) {qtd = ' '; saldo = saldo / 1  }
+             
+            else if ( saldo / 1000000 <  1000 ) {qtd = 'M'; saldo = saldo / 1000000 }
+            else if ( saldo / 1000000000 <= 1000 ) {qtd = 'Bi'; saldo = saldo / 1000000000 }
+        } 
+
+        p.innerText = `Saldo Disponivel: ${saldo} ${qtd}`
+        div.appendChild(p) 
+    }
+
+    MostarSaldo()
+    
+</script>
+</html>

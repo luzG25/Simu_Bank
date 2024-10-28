@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SimuBank</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="handlers.js"></script>
+</head>
+<body>
+    <div id="cx0">
+        <p id="info" onload="info()"></p>
+        <h1>Levantamento</h1>
+        
+        <div id="levantamento">
+            <p>
+                Quantia:
+                <input type="Number" placeholder="$CVE" id="quantia">
+                $
+            </p>
+            <p><input type="button" value="Confirmar" onclick="levantamento()"></p>
+        </div>
+
+        <p><input type="button" value="Voltar" onclick="pedirPagina('index')"></p>
+    </div>
+</body>
+<script>
+    info()
+    function levantamento()
+    {
+        let qtd = document.getElementById("quantia").value
+
+        let div = document.getElementById("levantamento")
+        let nDiv = document.createElement("div")
+        nDiv.id = "levantamento"
+
+        let p = document.createElement("p")
+        
+        let status = fazerOperacao(`levantamento/${qtd}`).status
+        if (status == "transacaoEfectuada") 
+        {
+            let p0 = document.createElement("p")
+            p0.innerHTML = "<b>Levantamento efectuado com Sucesso</b>"
+            nDiv.appendChild(p0)
+            p.innerHTML = `<b>Valor:</b>${qtd}`
+        }
+        else if (status == "SaldoInsuficiente") p.innerHTML = "<b>Levantamento não possivel pela falta de Saldo!</b>"
+        else p.innerHTML == "<b>Levantamento não foi Possivel</b>"
+
+        nDiv.appendChild(p)
+        div.replaceWith(nDiv)
+    }
+</script>
+</html>

@@ -1,0 +1,433 @@
+0,0,Felipe,funcionario,2021/12/30 23:11:56,Criou usuario Jorgecom id: 0
+1,0,Felipe,funcionario,2021/12/30 23:15:43,Criou usuario Jorgecom id: 1
+2,0,root,funcionario,2021/12/30 23:18:21,Criou usuario Miguel Santos com id: 2
+3,0,root,root,2021/12/30 23:23:38,Criou usuario Jorge Rafael com id: 3
+4,0,root,root,2021/12/30 23:23:38,Criou usuario Antonio Silva com id: 4
+5,0,root,root,2021/12/30 23:35:47,Criou usuario Angelica Maria com id: 5
+6,0,root,root,2021/12/30 23:35:47,Criou usuario Antonio Silva com id: 6
+7,0,root,root,2021/12/30 23:38:46,Criou usuario Maria Brand�o com id: 7
+8,0,root,root,2021/12/30 23:38:46,Criou usuario Roberto Carlos com id: 8
+9,0,root,root,2021/12/30 23:38:46,remo��o do usuario Antonio Silva,id:6
+10,0,root,root,2021/12/30 23:40:30,Criou usuario Jose Almeida com id: 9
+11,0,root,root,2021/12/30 23:40:30,remo��o do usuario Rafael,id:15
+12,0,root,root,2021/12/30 23:40:30,remo��o do usuario Jorge,id:16
+13,0,root,root,2021/12/30 23:43:15,Criou usuario Chris Almeida com id: 10
+14,0,root,root,2021/12/30 23:43:15,remo��o do usuario Jorge,id:1
+15,0,root,root,2021/12/30 23:43:15,remo��o do usuario Miguel Santos,id:2
+16,0,root,root,2021/12/30 23:43:50,Criou usuario Chris Almeida com id: 11
+17,0,root,root,2021/12/30 23:43:50,remo��o do usuario Angelica Maria,id:5
+18,0,root,root,2021/12/30 23:43:50,remo��o do usuario Maria Brand�o,id:7
+19,0,root,root,2021/12/30 23:59:31,logou no sistema
+20,0,root,root,2021/12/30 23:59:31,Criou usuario Chris Almeida com id: 12
+21,0,root,root,2021/12/30 23:59:31,removeu usuario Chris Almeida,id:11
+22,0,root,root,2021/12/30 23:59:31,removeu usuario Chris Almeida,id:10
+23,0,root,root,2021/12/31 00:00:03,logou no sistema
+24,0,root,root,2021/12/31 00:01:11,logou no sistema
+25,0,root,root,2021/12/31 23:19:16,logou no sistema
+27,0,root,root,2021/12/31 23:21:51,logou no sistema
+28,0,root,root,2021/12/31 23:21:51,Criou usuario Gabriel da Luz com id: 14
+29,0,root,root,2021/12/31 23:49:25,logou no sistema
+30,0,root,root,2021/12/31 23:49:25,Criou usuario Samuel Reis com id: 15
+31,0,root,root,2022/01/01 16:48:20,logou no sistema
+32,0,root,root,2022/01/01 16:48:20,Criou usuario Jose Santos com id: 16
+33,0,root,root,2022/01/01 16:55:07,logou no sistema
+34,0,root,root,2022/01/01 16:55:07,logou no sistema
+35,0,root,root,2022/01/01 16:55:07,logou no sistema
+36,0,root,root,2022/01/01 16:55:07,logou no sistema
+37,0,root,root,2022/01/01 16:55:28,logou no sistema
+38,0,root,root,2022/01/01 17:05:02,logou no sistema
+39,0,root,root,2022/01/01 17:09:41,logou no sistema
+40,0,root,root,2022/01/01 17:15:02,logou no sistema
+41,0,root,root,2022/01/01 17:19:35,logou no sistema
+42,0,root,root,2022/01/01 17:19:35,Criou usuario Jose Santos com id: 17
+43,14,Gabriel da Luz,funcionario,2022/01/01 18:26:53,logou no sistema
+44,14,Gabriel da Luz,funcionario,2022/01/01 18:31:52,logou no sistema
+45,14,Gabriel da Luz,funcionario,2022/01/01 18:52:50,logou no sistema
+46,14,Gabriel da Luz,funcionario,2022/01/01 18:52:50,Criou usuario Tom Silva com id: 18
+47,0,root,root,2022/01/01 21:57:18,logou no sistema
+48,14,Gabriel da Luz,funcionario,2022/01/01 21:58:29,logou no sistema
+49,14,Gabriel da Luz,funcionario,2022/01/01 21:58:29,Criou usuario Samuel Moreira com id: 19
+50,0,root,root,2022/01/02 00:39:44,logou no sistema
+51,0,root,root,2022/01/02 00:39:44,Criou usuario Fransisco Lima com id: 20
+52,20,Fransisco Lima,cliente,2022/01/02 02:35:35,logou no sistema
+53,14,Gabriel da Luz,funcionario,2022/01/02 02:57:23,logou no sistema
+54,20,Arlindo Nascimento da Luz,cliente,2022/01/02 03:54:59,logou no sistema
+55,14,Gabriel da Luz,funcionario,2022/01/02 03:57:15,logou no sistema
+56,14,Gabriel da Luz,funcionario,2022/01/02 03:57:15,Criou usuario Jaime Fonseca com id: 21
+57,0,root,root,2022/01/02 04:03:40,logou no sistema
+58,0,root,root,2022/01/02 04:03:40,Criou usuario Jaime Fonseca com id: 22
+59,22,Jaime Fonseca,cliente,2022/01/02 04:04:45,logou no sistema
+60,14,Gabriel da Luz,funcionario,2022/01/03 00:16:53,logou no sistema
+61,14,Gabriel da Luz,funcionario,2022/01/03 00:22:01,logou no sistema
+62,14,Gabriel da Luz,funcionario,2022/01/03 00:25:41,logou no sistema
+63,14,Gabriel da Luz,funcionario,2022/01/03 00:31:42,logou no sistema
+64,14,Gabriel da Luz,funcionario,2022/01/03 00:35:04,logou no sistema
+65,14,Gabriel da Luz,funcionario,2022/01/03 00:35:25,logou no sistema
+66,14,Gabriel da Luz,funcionario,2022/01/03 00:35:27,logou no sistema
+67,14,Gabriel da Luz,funcionario,2022/01/03 22:25:36,logou no sistema
+68,14,Gabriel da Luz,funcionario,2022/01/03 22:25:39,logou no sistema
+69,14,Gabriel da Luz,funcionario,2022/01/03 22:30:46,logou no sistema
+70,14,Gabriel da Luz,funcionario,2022/01/03 22:31:02,logou no sistema
+71,14,Gabriel da Luz,funcionario,2022/01/03 22:32:46,logou no sistema
+72,14,Gabriel da Luz,funcionario,2022/01/03 22:37:31,logou no sistema
+73,14,Gabriel da Luz,funcionario,2022/01/03 23:02:53,logou no sistema
+74,14,Gabriel da Luz,funcionario,2022/01/03 23:08:52,logou no sistema
+75,14,Gabriel da Luz,funcionario,2022/01/03 23:10:31,logou no sistema
+76,14,Gabriel da Luz,funcionario,2022/01/03 23:14:04,logou no sistema
+77,14,Gabriel da Luz,funcionario,2022/01/03 23:14:37,logou no sistema
+78,14,Gabriel da Luz,funcionario,2022/01/03 23:20:22,logou no sistema
+79,14,Gabriel da Luz,funcionario,2022/01/03 23:23:20,logou no sistema
+80,14,Gabriel da Luz,funcionario,2022/01/03 23:28:04,logou no sistema
+81,14,Gabriel da Luz,funcionario,2022/01/03 23:34:34,logou no sistema
+82,14,Gabriel da Luz,funcionario,2022/01/03 23:37:48,logou no sistema
+83,14,Gabriel da Luz,funcionario,2022/01/03 23:39:29,logou no sistema
+84,14,Gabriel da Luz,funcionario,2022/01/04 00:11:21,logou no sistema
+85,14,Gabriel da Luz,funcionario,2022/01/04 00:12:28,logou no sistema
+86,20,Arlindo Nascimento da Luz,cliente,2022/01/04 00:45:32,logou no sistema
+87,20,Arlindo Nascimento da Luz,cliente,2022/01/04 00:47:28,logou no sistema
+88,14,Gabriel da Luz,funcionario,2022/01/04 00:47:56,logou no sistema
+89,20,Arlindo Nascimento da Luz,cliente,2022/01/04 00:48:12,logou no sistema
+90,20,Arlindo Nascimento da Luz,cliente,2022/01/04 00:49:54,logou no sistema
+91,20,Arlindo Nascimento da Luz,cliente,2022/01/04 00:51:00,logou no sistema
+92,20,Arlindo Nascimento da Luz,cliente,2022/01/04 00:55:49,logou no sistema
+93,20,Arlindo Nascimento da Luz,cliente,2022/01/04 00:59:45,logou no sistema
+94,14,Gabriel da Luz,funcionario,2022/01/04 01:02:41,logou no sistema
+95,-1,system,root,2022/01/04 01:02:41,REGISTRO DE TRANSACOES FOI INDEVIDAMENTE ALTERADO NA LINHA 1
+96,14,Gabriel da Luz,funcionario,2022/01/04 01:07:20,logou no sistema
+97,20,Arlindo Nascimento da Luz,cliente,2022/01/04 01:07:29,logou no sistema
+98,20,Arlindo Nascimento da Luz,cliente,2022/01/04 01:17:52,logou no sistema
+99,20,Arlindo Nascimento da Luz,cliente,2022/01/04 01:20:50,logou no sistema
+100,20,Arlindo Nascimento da Luz,cliente,2022/01/04 01:21:17,logou no sistema
+101,22,Jaime Fonseca,cliente,2022/01/04 01:33:43,logou no sistema
+102,22,Jaime Fonseca,cliente,2022/01/04 01:35:08,Falhou em Calcular Saldo, mais detalhes:java.io.FileNotFoundException: DATA\clientes\22.dat (O sistema n�o conseguiu localizar o ficheiro especificado)
+103,14,Gabriel da Luz,funcionario,2022/01/04 01:35:26,logou no sistema
+104,-1,system,root,2022/01/04 01:35:51,Criando ficheiro: DATA/clientes/22.dat
+105,22,Jaime Fonseca,cliente,2022/01/04 01:36:24,logou no sistema
+106,20,Arlindo Nascimento da Luz,cliente,2022/01/04 01:50:49,logou no sistema
+107,20,Arlindo Nascimento da Luz,cliente,2022/01/04 01:51:05,logou no sistema
+108,20,Arlindo Nascimento da Luz,cliente,2022/01/04 01:55:12,logou no sistema
+109,20,Arlindo Nascimento da Luz,cliente,2022/01/04 01:55:19,logou no sistema
+110,20,Arlindo Nascimento da Luz,cliente,2022/01/04 01:55:25,logou no sistema
+111,20,Arlindo Nascimento da Luz,cliente,2022/01/04 01:55:27,logou no sistema
+112,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:00:13,logou no sistema
+113,14,Gabriel da Luz,funcionario,2022/01/04 02:01:17,logou no sistema
+114,14,Gabriel da Luz,funcionario,2022/01/04 02:02:01,logou no sistema
+115,14,Gabriel da Luz,funcionario,2022/01/04 02:06:18,logou no sistema
+116,14,Gabriel da Luz,funcionario,2022/01/04 02:07:42,logou no sistema
+117,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:09:29,logou no sistema
+118,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:09:37,logou no sistema
+119,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:12:22,logou no sistema
+120,14,Gabriel da Luz,funcionario,2022/01/04 02:13:27,logou no sistema
+121,14,Gabriel da Luz,funcionario,2022/01/04 02:14:17,logou no sistema
+122,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:15:14,logou no sistema
+123,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:15:46,logou no sistema
+124,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:15:48,logou no sistema
+125,22,Jaime Fonseca,cliente,2022/01/04 02:16:09,logou no sistema
+126,22,Jaime Fonseca,cliente,2022/01/04 02:16:21,logou no sistema
+127,22,Jaime Fonseca,cliente,2022/01/04 02:16:22,logou no sistema
+128,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:16:31,logou no sistema
+129,22,Jaime Fonseca,cliente,2022/01/04 02:46:43,logou no sistema
+130,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:49:35,logou no sistema
+131,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:49:42,logou no sistema
+132,-1,system,root,2022/01/04 02:52:34,Criando ficheiro: DATA/clientes/-1.dat
+133,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:52:41,logou no sistema
+134,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:52:46,logou no sistema
+135,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:53:06,logou no sistema
+136,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:53:13,logou no sistema
+137,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:53:15,logou no sistema
+138,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:55:27,logou no sistema
+139,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:55:30,logou no sistema
+140,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:55:49,logou no sistema
+141,20,Arlindo Nascimento da Luz,cliente,2022/01/04 03:01:02,logou no sistema
+142,20,Arlindo Nascimento da Luz,cliente,2022/01/04 03:01:07,logou no sistema
+143,22,Jaime Fonseca,cliente,2022/01/04 03:01:49,logou no sistema
+144,22,Jaime Fonseca,cliente,2022/01/04 03:01:57,logou no sistema
+145,22,Jaime Fonseca,cliente,2022/01/04 03:01:59,logou no sistema
+146,22,Jaime Fonseca,cliente,2022/01/04 03:02:07,logou no sistema
+147,22,Jaime Fonseca,cliente,2022/01/04 03:02:08,logou no sistema
+148,20,Arlindo Nascimento da Luz,cliente,2022/06/04 11:54:25,logou no sistema
+149,20,Arlindo Nascimento da Luz,cliente,2022/06/04 11:54:39,logou no sistema
+150,20,Arlindo Nascimento da Luz,cliente,2022/06/04 11:54:41,logou no sistema
+151,20,Arlindo Nascimento da Luz,cliente,2022/06/04 11:55:01,logou no sistema
+152,22,Jaime Fonseca,cliente,2022/06/04 11:55:41,logou no sistema
+153,22,Jaime Fonseca,cliente,2022/06/04 11:55:54,logou no sistema
+154,20,Arlindo Nascimento da Luz,cliente,2022/06/04 12:14:59,logou no sistema
+155,20,Arlindo Nascimento da Luz,cliente,2022/06/04 12:15:14,logou no sistema
+156,20,Arlindo Nascimento da Luz,cliente,2022/06/04 12:15:17,logou no sistema
+157,20,Arlindo Nascimento da Luz,cliente,2022/06/04 12:15:26,logou no sistema
+158,20,Arlindo Nascimento da Luz,cliente,2022/06/04 12:15:33,logou no sistema
+159,20,Arlindo Nascimento da Luz,cliente,2022/06/04 12:15:35,logou no sistema
+160,22,Jaime Fonseca,cliente,2022/06/04 12:15:52,logou no sistema
+161,22,Jaime Fonseca,cliente,2022/06/04 12:16:02,logou no sistema
+162,22,Jaime Fonseca,cliente,2022/06/04 12:16:04,logou no sistema
+163,0,root,root,2022/06/04 12:20:05,logou no sistema
+164,0,root,root,2022/06/04 12:20:06,Criou usuario Raquel Rosario com id: 23
+165,-1,system,root,2022/06/04 12:20:06,Criando ficheiro: DATA/clientes/23.dat
+166,0,root,root,2022/06/04 12:20:42,logou no sistema
+167,0,root,root,2022/06/04 12:20:42,Criou usuario Raquel Rosario com id: 24
+168,23,Raquel Rosario,cliente,2022/06/04 12:21:31,logou no sistema
+169,23,Raquel Rosario,cliente,2022/06/04 12:22:02,logou no sistema
+170,24,Raquel Rosario,funcionario,2022/06/04 12:24:27,logou no sistema
+171,24,Raquel Rosario,funcionario,2022/06/04 12:24:52,logou no sistema
+172,23,Raquel Rosario,cliente,2022/06/04 12:26:29,logou no sistema
+173,23,Raquel Rosario,cliente,2022/06/04 12:26:52,logou no sistema
+174,23,Raquel Rosario,cliente,2022/06/04 12:26:53,logou no sistema
+175,24,Raquel Rosario,funcionario,2022/06/04 12:28:02,logou no sistema
+176,-1,system,root,2022/06/04 12:28:02,Criando ficheiro: DATA/clientes/24.dat
+177,23,Raquel Rosario,cliente,2022/06/04 12:30:15,logou no sistema
+178,23,Raquel Rosario,cliente,2022/06/04 12:30:35,logou no sistema
+179,-1,system,root,2022/06/04 12:30:35,Criando ficheiro: DATA/clientes/100000.dat
+180,23,Raquel Rosario,cliente,2022/06/04 12:30:36,logou no sistema
+181,23,Raquel Rosario,cliente,2022/06/04 12:30:39,logou no sistema
+182,20,Arlindo Nascimento da Luz,cliente,2022/06/04 12:30:47,logou no sistema
+183,23,Raquel Rosario,cliente,2022/06/04 12:35:28,logou no sistema
+184,23,Raquel Rosario,cliente,2022/06/04 12:35:43,logou no sistema
+185,23,Raquel Rosario,cliente,2022/06/04 12:38:06,logou no sistema
+186,23,Raquel Rosario,cliente,2022/06/04 12:38:10,logou no sistema
+187,23,Raquel Rosario,cliente,2022/06/04 12:38:12,logou no sistema
+188,20,Arlindo Nascimento da Luz,cliente,2022/06/04 12:38:24,logou no sistema
+189,20,Arlindo Nascimento da Luz,cliente,2022/06/04 12:38:32,logou no sistema
+190,23,Raquel Rosario,cliente,2022/06/04 12:39:14,logou no sistema
+191,23,Raquel Rosario,cliente,2022/06/04 12:39:27,logou no sistema
+192,23,Raquel Rosario,cliente,2022/06/04 12:39:28,logou no sistema
+193,23,Raquel Rosario,cliente,2022/06/04 12:55:31,logou no sistema
+194,23,Raquel Rosario,cliente,2022/06/04 12:55:35,logou no sistema
+195,22,Jaime Fonseca,cliente,2022/06/05 13:33:37,logou no sistema
+196,22,Jaime Fonseca,cliente,2022/06/05 13:33:59,logou no sistema
+197,22,Jaime Fonseca,cliente,2022/06/05 13:44:34,logou no sistema
+198,22,Jaime Fonseca,cliente,2022/06/05 13:44:48,logou no sistema
+199,22,Jaime Fonseca,cliente,2022/06/05 13:46:24,logou no sistema
+200,22,Jaime Fonseca,cliente,2022/06/05 13:46:36,logou no sistema
+201,22,Jaime Fonseca,cliente,2022/06/05 13:46:38,logou no sistema
+202,22,Jaime Fonseca,cliente,2022/06/05 13:48:16,logou no sistema
+203,22,Jaime Fonseca,cliente,2022/06/05 13:48:30,logou no sistema
+204,22,Jaime Fonseca,cliente,2022/06/05 13:55:34,logou no sistema
+205,22,Jaime Fonseca,cliente,2022/06/05 13:55:49,logou no sistema
+206,20,Arlindo Nascimento da Luz,cliente,2022/10/08 15:43:54,logou no sistema
+207,20,Arlindo Nascimento da Luz,cliente,2022/10/08 15:44:30,logou no sistema
+208,20,Arlindo,cliente,2022/10/08 15:44:33,logou no sistema
+209,20,Arlindo,cliente,2022/10/08 15:45:00,logou no sistema
+210,20,Arlindo,cliente,2022/10/08 15:45:35,logou no sistema
+211,20,Arlindo,cliente,2022/10/08 15:45:38,logou no sistema
+212,23,Raquel Rosario,cliente,2022/10/08 15:46:35,logou no sistema
+213,23,Raquel Rosario,cliente,2022/10/08 15:46:53,logou no sistema
+214,23,Raquel Rosario,cliente,2022/10/08 15:46:56,logou no sistema
+215,20,Arlindo,cliente,2022/10/08 15:47:29,logou no sistema
+216,20,Arlindo,cliente,2022/10/08 15:48:03,logou no sistema
+217,20,Arlindo,cliente,2022/10/08 15:48:06,logou no sistema
+218,20,Arlindo,cliente,2022/10/08 15:48:19,logou no sistema
+219,20,Arlindo,cliente,2022/10/08 15:48:26,logou no sistema
+220,20,Arlindo,cliente,2022/10/08 15:48:43,logou no sistema
+221,20,Arlindo,cliente,2022/10/08 15:48:46,logou no sistema
+222,20,Arlindo,cliente,2022/10/08 15:48:58,logou no sistema
+223,20,Arlindo,cliente,2022/10/08 15:49:01,logou no sistema
+224,20,Arlindo,cliente,2022/10/08 15:49:09,logou no sistema
+225,20,Arlindo,cliente,2022/10/08 15:49:14,logou no sistema
+226,20,Arlindo,cliente,2022/10/08 15:49:25,logou no sistema
+227,20,Arlindo,cliente,2022/10/08 15:49:30,logou no sistema
+228,20,Arlindo,cliente,2022/10/08 15:49:38,logou no sistema
+229,20,Arlindo,cliente,2022/10/08 15:49:51,logou no sistema
+230,23,Raquel Rosario,cliente,2022/10/08 15:50:16,logou no sistema
+231,23,Raquel Rosario,cliente,2022/10/08 15:50:47,logou no sistema
+232,23,Raquel Rosario,cliente,2022/10/08 15:51:03,logou no sistema
+233,20,Arlindo,cliente,2022/10/08 15:51:24,logou no sistema
+234,23,Raquel Rosario,cliente,2022/10/08 15:51:30,logou no sistema
+235,20,Arlindo,cliente,2022/10/08 15:51:59,logou no sistema
+236,20,Arlindo,cliente,2022/10/08 15:52:00,logou no sistema
+237,20,Arlindo,cliente,2022/10/08 15:52:11,logou no sistema
+238,20,Arlindo,cliente,2022/10/08 15:52:12,logou no sistema
+239,20,Arlindo,cliente,2022/10/08 15:52:23,logou no sistema
+240,20,Arlindo,cliente,2022/10/08 15:52:24,logou no sistema
+241,23,Raquel Rosario,cliente,2022/10/08 15:52:37,logou no sistema
+242,23,Raquel Rosario,cliente,2022/10/08 15:52:39,logou no sistema
+243,20,Arlindo,cliente,2022/10/08 15:52:44,logou no sistema
+244,20,Arlindo,cliente,2022/10/08 15:52:57,logou no sistema
+245,20,Arlindo,cliente,2022/10/08 15:52:59,logou no sistema
+246,20,Arlindo,cliente,2022/10/08 15:54:38,logou no sistema
+247,20,Arlindo,cliente,2022/10/08 15:54:40,logou no sistema
+248,23,Raquel Rosario,cliente,2022/10/08 15:54:45,logou no sistema
+249,24,Raquel Rosario,funcionario,2022/10/08 15:55:20,logou no sistema
+250,23,Raquel Rosario,cliente,2022/10/08 15:55:30,logou no sistema
+251,23,Raquel Rosario,cliente,2022/10/08 15:56:18,logou no sistema
+252,23,Raquel Rosario,cliente,2022/10/08 15:56:21,logou no sistema
+253,23,Raquel Rosario,cliente,2022/10/08 15:56:57,logou no sistema
+254,23,Raquel Rosario,cliente,2022/10/08 15:56:59,logou no sistema
+255,23,Raquel Rosario,cliente,2022/10/08 15:57:15,logou no sistema
+256,23,Raquel Rosario,cliente,2022/10/08 15:57:17,logou no sistema
+257,23,Raquel Rosario,cliente,2022/10/08 15:58:06,logou no sistema
+258,23,Raquel Rosario,cliente,2022/10/08 15:58:07,logou no sistema
+259,24,Raquel Rosario,funcionario,2022/10/08 15:59:04,logou no sistema
+260,24,Raquel Rosario,funcionario,2022/10/08 15:59:04,Criou usuario Maria ROsana com id: 25
+261,-1,system,root,2022/10/08 15:59:04,Criando ficheiro: DATA/clientes/25.dat
+262,20,Arlindo,cliente,2022/10/08 15:59:33,logou no sistema
+263,20,Arlindo,cliente,2022/10/08 15:59:35,logou no sistema
+264,20,Arlindo,cliente,2022/10/08 15:59:56,logou no sistema
+265,20,Arlindo,cliente,2022/10/08 15:59:58,logou no sistema
+266,23,Raquel Rosario,cliente,2022/10/08 16:00:09,logou no sistema
+267,20,Arlindo,cliente,2022/10/08 16:00:34,logou no sistema
+268,20,Arlindo,cliente,2022/10/08 16:00:36,logou no sistema
+269,20,Arlindo,cliente,2022/10/08 16:00:50,logou no sistema
+270,20,Arlindo,cliente,2022/10/08 16:00:51,logou no sistema
+271,24,Raquel Rosario,funcionario,2022/10/08 16:01:30,logou no sistema
+272,20,Arlindo,cliente,2022/10/08 16:01:33,logou no sistema
+273,20,Arlindo,cliente,2022/10/08 16:01:54,logou no sistema
+274,20,Arlindo,cliente,2022/10/08 16:01:57,logou no sistema
+275,20,Arlindo,cliente,2022/10/08 16:02:07,logou no sistema
+276,20,Arlindo,cliente,2022/10/08 16:02:09,logou no sistema
+277,20,Arlindo,cliente,2022/10/08 16:02:10,logou no sistema
+278,20,Arlindo,cliente,2022/10/08 16:02:40,logou no sistema
+279,20,Arlindo,cliente,2022/10/08 16:02:41,logou no sistema
+280,25,Maria ROsana,cliente,2022/10/08 16:07:35,logou no sistema
+281,20,Arlindo,cliente,2022/10/08 16:08:14,logou no sistema
+282,25,Maria ROsana,cliente,2022/10/08 16:08:21,logou no sistema
+283,20,Arlindo,cliente,2022/10/08 16:08:24,logou no sistema
+284,20,Arlindo,cliente,2022/10/08 16:08:24,logou no sistema
+285,23,Raquel Rosario,cliente,2022/10/08 16:08:46,logou no sistema
+286,23,Raquel Rosario,cliente,2022/10/08 16:08:50,logou no sistema
+287,23,Raquel Rosario,cliente,2022/10/08 16:09:10,logou no sistema
+288,23,Raquel Rosario,cliente,2022/10/08 16:09:36,logou no sistema
+289,20,Arlindo,cliente,2022/10/08 16:09:42,logou no sistema
+290,23,Raquel Rosario,cliente,2022/10/08 16:10:07,logou no sistema
+291,20,Arlindo,cliente,2022/10/08 16:10:19,logou no sistema
+292,20,Arlindo,cliente,2022/10/08 16:10:20,logou no sistema
+293,25,Maria ROsana,cliente,2022/10/08 16:10:48,logou no sistema
+294,20,Arlindo,cliente,2022/10/08 16:30:31,logou no sistema
+295,20,Arlindo,cliente,2022/10/08 16:40:46,logou no sistema
+296,20,Arlindo,cliente,2022/10/08 16:41:52,logou no sistema
+297,20,Arlindo,cliente,2022/10/08 16:41:56,logou no sistema
+298,23,Raquel Rosario,cliente,2022/10/08 16:42:14,logou no sistema
+299,23,Raquel Rosario,cliente,2022/10/08 16:43:48,logou no sistema
+300,23,Raquel Rosario,cliente,2022/10/08 16:45:33,logou no sistema
+301,23,Raquel Rosario,cliente,2022/10/08 16:45:50,logou no sistema
+302,20,Arlindo,cliente,2022/10/08 16:47:43,logou no sistema
+303,25,Maria ROsana,cliente,2022/10/08 16:48:02,logou no sistema
+304,25,Maria ROsana,cliente,2022/10/08 16:48:23,logou no sistema
+305,25,Maria ROsana,cliente,2022/10/08 16:48:24,logou no sistema
+306,25,Maria ROsana,cliente,2022/10/08 16:49:12,logou no sistema
+307,25,Maria ROsana,cliente,2022/10/08 16:50:52,logou no sistema
+308,20,Arlindo,cliente,2022/10/08 16:57:29,logou no sistema
+309,20,Arlindo,cliente,2022/10/08 16:58:27,logou no sistema
+310,23,Raquel Rosario,cliente,2022/10/08 16:58:45,logou no sistema
+311,20,Arlindo,cliente,2022/10/08 17:00:27,logou no sistema
+312,23,Raquel Rosario,cliente,2022/10/08 17:00:33,logou no sistema
+313,23,Raquel Rosario,cliente,2022/10/08 17:01:16,logou no sistema
+314,23,Raquel Rosario,cliente,2022/10/08 17:01:17,logou no sistema
+315,20,Arlindo,cliente,2022/10/08 17:01:20,logou no sistema
+316,23,Raquel Rosario,cliente,2022/10/08 17:01:35,logou no sistema
+317,23,Raquel Rosario,cliente,2022/10/08 17:01:37,logou no sistema
+318,25,Maria ROsana,cliente,2022/10/08 17:02:23,logou no sistema
+319,25,Maria ROsana,cliente,2022/10/08 17:02:47,logou no sistema
+320,25,Maria ROsana,cliente,2022/10/08 17:02:48,logou no sistema
+321,20,Arlindo,cliente,2022/10/08 17:02:54,logou no sistema
+322,23,Raquel Rosario,cliente,2022/10/08 17:03:20,logou no sistema
+323,25,Maria ROsana,cliente,2022/10/08 17:03:28,logou no sistema
+324,23,Raquel Rosario,cliente,2022/10/08 17:03:33,logou no sistema
+325,23,Raquel Rosario,cliente,2022/10/08 17:04:06,logou no sistema
+326,23,Raquel Rosario,cliente,2022/10/08 17:04:09,logou no sistema
+327,25,Maria ROsana,cliente,2022/10/08 17:04:14,logou no sistema
+328,25,Maria ROsana,cliente,2022/10/08 17:05:02,logou no sistema
+329,25,Maria ROsana,cliente,2022/10/08 17:05:04,logou no sistema
+330,23,Raquel Rosario,cliente,2022/10/08 17:05:09,logou no sistema
+331,24,Raquel Rosario,funcionario,2022/10/08 17:05:37,logou no sistema
+332,23,Raquel Rosario,cliente,2022/10/08 17:05:45,logou no sistema
+333,23,Raquel Rosario,cliente,2022/10/08 17:05:59,logou no sistema
+334,23,Raquel Rosario,cliente,2022/10/08 17:06:26,logou no sistema
+335,23,Raquel Rosario,cliente,2022/10/08 17:06:29,logou no sistema
+336,23,Raquel Rosario,cliente,2022/10/08 17:07:03,logou no sistema
+337,23,Raquel Rosario,cliente,2022/10/08 17:07:04,logou no sistema
+338,23,Raquel Rosario,cliente,2022/10/08 17:07:16,logou no sistema
+339,20,Arlindo,cliente,2022/10/08 17:07:19,logou no sistema
+340,24,Raquel Rosario,funcionario,2022/10/08 17:07:52,logou no sistema
+341,24,Raquel Rosario,funcionario,2022/10/08 17:07:52,Criou usuario Roberto Carvalho com id: 26
+342,-1,system,root,2022/10/08 17:07:52,Criando ficheiro: DATA/clientes/26.dat
+343,20,Arlindo,cliente,2022/10/08 17:08:12,logou no sistema
+344,20,Arlindo,cliente,2022/10/08 17:08:17,logou no sistema
+345,20,Arlindo,cliente,2022/10/08 17:08:40,logou no sistema
+346,20,Arlindo,cliente,2022/10/08 17:08:42,logou no sistema
+347,26,Roberto Carvalho,cliente,2022/10/08 17:08:56,logou no sistema
+348,26,Roberto Carvalho,cliente,2022/10/08 17:11:36,logou no sistema
+349,26,Roberto Carvalho,cliente,2022/10/08 17:13:35,logou no sistema
+350,26,Roberto Carvalho,cliente,2022/10/08 17:14:10,logou no sistema
+351,20,Arlindo,cliente,2022/10/08 17:14:43,logou no sistema
+352,26,Roberto Carvalho,cliente,2022/10/08 17:14:50,logou no sistema
+353,20,Arlindo,cliente,2022/10/08 17:15:01,logou no sistema
+354,26,Roberto Carvalho,cliente,2022/10/08 17:15:40,logou no sistema
+355,20,Arlindo,cliente,2022/10/08 17:15:45,logou no sistema
+356,20,Arlindo,cliente,2022/10/08 17:15:54,logou no sistema
+357,26,Roberto Carvalho,cliente,2022/10/08 17:16:16,logou no sistema
+358,26,Roberto Carvalho,cliente,2022/10/08 17:16:30,logou no sistema
+359,26,Roberto Carvalho,cliente,2022/10/08 17:17:02,logou no sistema
+360,26,Roberto Carvalho,cliente,2022/10/08 17:17:14,logou no sistema
+361,26,Roberto Carvalho,cliente,2022/10/08 17:17:16,logou no sistema
+362,26,Roberto Carvalho,cliente,2022/10/08 17:18:13,logou no sistema
+363,26,Roberto Carvalho,cliente,2022/10/08 17:18:16,logou no sistema
+364,26,Roberto Carvalho,cliente,2022/10/08 17:19:13,logou no sistema
+365,26,Roberto Carvalho,cliente,2022/10/08 17:19:17,logou no sistema
+366,20,Arlindo,cliente,2022/10/08 17:19:30,logou no sistema
+367,20,Arlindo,cliente,2022/10/08 17:19:34,logou no sistema
+368,26,Roberto Carvalho,cliente,2022/10/08 17:19:42,logou no sistema
+369,20,Arlindo,cliente,2022/10/08 17:20:01,logou no sistema
+370,20,Arlindo,cliente,2022/10/08 17:20:02,logou no sistema
+371,20,Arlindo,cliente,2022/10/08 17:20:12,logou no sistema
+372,20,Arlindo,cliente,2022/10/08 17:20:14,logou no sistema
+373,20,Arlindo,cliente,2022/10/08 17:20:17,logou no sistema
+374,20,Arlindo,cliente,2022/10/08 17:20:42,logou no sistema
+375,23,Raquel Rosario,cliente,2022/10/08 17:20:53,logou no sistema
+376,23,Raquel Rosario,cliente,2022/10/08 17:21:23,logou no sistema
+377,23,Raquel Rosario,cliente,2022/10/08 17:21:24,logou no sistema
+378,26,Roberto Carvalho,cliente,2022/10/08 17:21:50,logou no sistema
+379,26,Roberto Carvalho,cliente,2022/10/08 17:21:56,logou no sistema
+380,23,Raquel Rosario,cliente,2022/10/08 17:21:59,logou no sistema
+381,23,Raquel Rosario,cliente,2022/10/08 17:22:53,logou no sistema
+382,23,Raquel Rosario,cliente,2022/10/08 17:22:54,logou no sistema
+383,23,Raquel Rosario,cliente,2022/10/08 17:23:07,logou no sistema
+384,23,Raquel Rosario,cliente,2022/10/08 17:23:08,logou no sistema
+385,23,Raquel Rosario,cliente,2022/10/08 17:23:24,logou no sistema
+386,23,Raquel Rosario,cliente,2022/10/08 17:23:25,logou no sistema
+387,23,Raquel Rosario,cliente,2022/10/08 17:23:38,logou no sistema
+388,23,Raquel Rosario,cliente,2022/10/08 17:23:39,logou no sistema
+389,23,Raquel Rosario,cliente,2022/10/08 17:23:50,logou no sistema
+390,23,Raquel Rosario,cliente,2022/10/08 17:23:51,logou no sistema
+391,23,Raquel Rosario,cliente,2022/10/08 17:24:03,logou no sistema
+392,23,Raquel Rosario,cliente,2022/10/08 17:24:04,logou no sistema
+393,26,Roberto Carvalho,cliente,2022/10/08 17:24:13,logou no sistema
+394,20,Arlindo,cliente,2022/10/08 17:24:53,logou no sistema
+395,20,Arlindo,cliente,2022/10/08 17:25:21,logou no sistema
+396,20,Arlindo,cliente,2022/10/08 17:25:22,logou no sistema
+397,20,Arlindo,cliente,2022/10/08 17:25:55,logou no sistema
+398,20,Arlindo,cliente,2022/10/08 17:25:59,logou no sistema
+399,23,Raquel Rosario,cliente,2022/10/08 17:26:05,logou no sistema
+400,25,Maria ROsana,cliente,2022/10/08 17:26:59,logou no sistema
+401,23,Raquel Rosario,cliente,2022/10/08 17:27:24,logou no sistema
+402,23,Raquel Rosario,cliente,2022/10/08 17:27:46,logou no sistema
+403,23,Raquel Rosario,cliente,2022/10/08 17:27:47,logou no sistema
+404,23,Raquel Rosario,cliente,2022/10/08 17:28:03,logou no sistema
+405,23,Raquel Rosario,cliente,2022/10/08 17:28:04,logou no sistema
+406,23,Raquel Rosario,cliente,2022/10/08 17:28:40,logou no sistema
+407,23,Raquel Rosario,cliente,2022/10/08 17:28:41,logou no sistema
+408,25,Maria ROsana,cliente,2022/10/08 17:28:48,logou no sistema
+409,25,Maria ROsana,cliente,2022/10/08 17:29:03,logou no sistema
+410,20,Arlindo,cliente,2022/10/08 17:29:08,logou no sistema
+411,25,Maria ROsana,cliente,2022/10/08 17:29:39,logou no sistema
+412,25,Maria ROsana,cliente,2022/10/08 17:29:41,logou no sistema
+413,25,Maria ROsana,cliente,2022/10/08 17:30:01,logou no sistema
+414,26,Roberto Carvalho,cliente,2022/10/08 17:30:23,logou no sistema
+415,26,Roberto Carvalho,cliente,2022/10/08 17:30:34,logou no sistema
+416,26,Roberto Carvalho,cliente,2022/10/08 17:30:36,logou no sistema
+417,26,Roberto Carvalho,cliente,2022/10/08 17:30:48,logou no sistema
+418,26,Roberto Carvalho,cliente,2022/10/08 17:30:50,logou no sistema
+419,26,Roberto Carvalho,cliente,2022/10/08 17:31:19,logou no sistema
+420,26,Roberto Carvalho,cliente,2022/10/08 17:31:21,logou no sistema
+421,26,Roberto Carvalho,cliente,2022/10/08 17:31:54,logou no sistema
+422,26,Roberto Carvalho,cliente,2022/10/08 17:31:56,logou no sistema
+423,23,Raquel Rosario,cliente,2022/10/08 17:32:01,logou no sistema
+424,23,Raquel Rosario,cliente,2022/10/08 17:32:12,logou no sistema
+425,23,Raquel Rosario,cliente,2022/10/08 17:32:38,logou no sistema
+426,23,Raquel Rosario,cliente,2022/10/08 17:32:39,logou no sistema
+427,26,Roberto Carvalho,cliente,2022/10/08 17:32:45,logou no sistema
+428,20,Arlindo,cliente,2022/10/08 17:33:09,logou no sistema
+429,20,Jose Cabel,cliente,2022/10/08 17:33:12,logou no sistema
+430,20,Jose Cabel,cliente,2022/10/08 17:33:30,logou no sistema
+431,20,Jose Cabel,cliente,2022/10/08 17:33:52,logou no sistema
+432,20,Jose Cabel,cliente,2022/10/08 17:33:55,logou no sistema
+433,26,Roberto Carvalho,cliente,2022/10/08 17:33:58,logou no sistema
